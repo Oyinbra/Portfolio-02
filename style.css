@@ -103,7 +103,9 @@ h4{
     top: 6px;
     right: 6px;
 }
-.newsletter form input:last-child:hover{ /* Design Submit Hover */
+
+/* Design Submit Hover */
+.newsletter form input:last-child:hover{
     background-color: #000;
     border: 1px solid #fff;
     cursor: pointer;
